@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Aplikasi Pengaduan Masyarakat</string>
+    <string name="registrasi_aplikasi">Registrasi Aplikasi</string>
+    <string name="username">Username</string>
+    <string name="masukkan_no_telp">Masukkan No. Telp.</string>
+    <string name="masuk_disini">"   Masuk Disini"</string>
+    <string name="id_baru">ID Baru</string>
+    <string name="registrasi">registrasi</string>
+    <string name="e">*****</string>
+    <string name="sudah_mempunyai_akun">Sudah Mempunyai Akun?</string>
+    <string name="aplikasi_pengaduan_masyarakat">aplikasi pengaduan masyarakat</string>
+    <string name="dikembangkan_oleh_codepelita_smksa">dikembangkan_oleh_codepelita_smksa</string>
+    <string name="versi_1_0_1">versi_1_0_1</string>
+    <string name="todo">TODO</string>
+    <string name="masuk">masuk</string>
+    <string name="belum_punya_akun">Belum Punya Akun?</string>
+    <string name="register">register</string>
+    <string name="nik">NIK</string>
+    <string name="jl_sumatra_no_18_kota_pekalongan">Jl. Sumatra No. 18, Kota Pekalongan</string>
+    <string name="hubungi_kami"><![CDATA[Hubungi Kami >>]]></string>
+    <string name="samsudin_cute_s">Samsudin Cute\'s</string>
+    <string name="temuan_anda"><![CDATA[Temuan Anda >>]]></string>
+    <string name="laporan_pengaduan_disetujui"><![CDATA[Laporan Pengaduan Disetujui >>]]></string>
+    <string name="laporkan_temuan">Laporkan Temuan</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="laporan_pengaduan">Laporan Pengaduan</string>
+    <string name="TODO">TODO</string>
+    <string name="Username">Username</string>
+    <string name="APLIKASI_PENGADUAN_MASYARAKAT">APLIKASI PENGADUAN MASYARAKAT</string>
+    <string name="TODO_">TODO</string>
+    <string name="password">******</string>
+    <string name="img">TODO</string>
+    <string name="ic">TODO</string>
+</resources>
